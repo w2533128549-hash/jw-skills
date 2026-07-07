@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Multi-Agent Project"
+  short_description: "Create local Codex multi-agent project files"
+  default_prompt: "Use $create-multi-agent-project to create a project-local multi-agent team with a project manager and specialist agents."
