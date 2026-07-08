@@ -1,0 +1,4 @@
+interface:
+  display_name: "AIWork Subagents"
+  short_description: "Spawn AIWork role-based subagents from project TOML templates."
+  default_prompt: "Create role-based AIWork subagents from D:\\AIWork\\agents templates."

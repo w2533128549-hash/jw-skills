@@ -5,6 +5,7 @@ Reusable Codex skills for personal use.
 ## Skills
 
 - `create-multi-agent-project`: Codex skill that scaffolds a project-local multi-agent team with a project manager and specialist agents, an `agents/` directory, `config.toml`, and `AGENTS.md`. Enforces workspace-only writes and high-risk handoff to the project manager.
+- `aiwork-subagents`: Codex skill that spawns AIWork role-based subagents from `D:\AIWork\agents` TOML templates. Includes role references and a default OpenAI interface stub.
 
 ## Install into Codex
 
